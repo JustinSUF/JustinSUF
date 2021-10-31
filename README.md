@@ -24,6 +24,6 @@ Favorite Video Games:
 - Half Life Series
 - Minecraft
 - BeamNG.Drive
- -Teardown
+- Teardown
 
 Discord: Justin#4567

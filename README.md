@@ -8,7 +8,7 @@ I have a music addiction.
 Things I like:
 - Game Design
 - Making GFXs
-- Music (like alternative, rock, pop)
+- Listening and Making to Music
 - Being with my friends and family.
 - Learning new things and meeting new people!
 
@@ -26,4 +26,11 @@ Favorite Video Games:
 - BeamNG.Drive
 - Teardown
 
+Favorite Pieces of Software:
+- Blender (GFXs)
+- Spotify (Listening to Music)
+- Jellyfin (Media Server)
+- paint.net (Photo Editing)
+- Logic Pro (Music Production)
+- Premiere Pro (Video Editing
 Discord: Justin#4567

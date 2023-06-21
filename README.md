@@ -32,5 +32,6 @@ Favorite Pieces of Software:
 - Jellyfin (Media Server)
 - paint.net (Photo Editing)
 - Logic Pro (Music Production)
-- Premiere Pro (Video Editing
+- Premiere Pro (Video Editing)
+  
 Discord: atjustin

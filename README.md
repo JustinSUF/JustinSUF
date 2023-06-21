@@ -33,4 +33,4 @@ Favorite Pieces of Software:
 - paint.net (Photo Editing)
 - Logic Pro (Music Production)
 - Premiere Pro (Video Editing
-Discord: Justin#4567
+Discord: atjustin
